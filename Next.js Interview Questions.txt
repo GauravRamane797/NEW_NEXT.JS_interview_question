@@ -1,0 +1,193 @@
+1- which type of routing use in next.js ?
+
+2- How many type of Routing ?
+
+
+--------------------------function-------------------------------------
+
+
+
+3- What is "use Client" in the next.js?
+
+4- how to call the function in next.js?
+
+
+-------------------------------Component-------------------------------------
+
+5- make a Component inside a component?
+
+6- Call component as a function?
+
+
+-----------------------state------------------------------------------
+
+7- What is a state in react?
+
+8- What is package.json?
+		---> It is Storing project details, commands and librabries
+
+9- Difference between dependency and devdependency?
+
+
+
+
+----------------------Component-----------------------
+
+
+
+
+10-Type of Component in next.js?
+
+11-What is server component?
+
+12-What is Client Component?
+
+13-Where to use Client Component?
+
+
+
+------------------------routing ---------------------------
+
+
+
+
+
+14-What is the pattern for creating Page is next.js?
+
+15-Do we need ot install any package for routing in next.js?
+
+16-Next.js jses a file system based router?
+
+
+
+----------------------------- Linking and Navigation---------------------------------
+
+
+
+17- what is Linking and Navigation?
+                -> link (url)
+
+18-How to make links?
+
+19-How to navigate to another screen?
+
+- Two ways of navigating between routes
+- Difference between link and navigation----->
+                link - <a href>
+                navigation - button,onclick etc.
+
+-----------------------------Nested Routing------------------------------------
+
+
+20-What is Nested Routing?
+		---- NORMAL ROUTING
+		---- NESTED ROUTING
+
+21-Make layout.js.
+
+22-Create a Navigation bar for login?
+
+23-Add a common style for Login?
+
+24- interview Question.
+        - How common layout works in Next.js?
+		---> header , footer , sidebar
+        - Why user first letter capital in Link?
+
+--------------------Conditional Layout-----------------------------
+
+
+
+25- What is Conditional Layout?
+
+26- Get Route Name by the hook?
+
+27- Apply Condition with route name?
+
+28- Interview Question
+
+29- The task of you
+		- How to write conditions in JSX ?
+				---> Using Path Name
+		- How to add Conditonal layout ?
+
+
+-----------------------------Dynamic Routes------------------------------
+
+
+30- What are Dynamic Routes
+
+31- Make a folder and file for the Dynamic route
+
+32- Write code and Navigation
+
+33- Get Dynamic Route name
+
+34- interview Question
+
+35- the task for you
+		- What is a dynamic Route?
+		- How to get dynamic Route name ?
+
+
+---------------------------Catch-all Segments of Route-------------------------------
+
+
+
+36- What are the Segments of the Route?
+37- how to get all segements of Route?
+38- interview Question
+39- the task for you
+			- Get Route name from url ?
+			- How to get all segments of Route?
+
+
+-------------------------404 Pag in Next.js---------------------------
+
+40- What is 404 page?
+
+41- make the Global 404 page?
+
+42- Make Route specific 404 page?
+
+43- Interview Question
+
+44- Task for you
+
+		- Make 400 page a segment .
+		- What to make 404 page?
+		- What is 404 page?
+
+
+
+----------------------------Middlewere in Next.Js---------------------------
+
+45- What is Middlewere in Next.Js Routing? 
+
+46- Make middlewere in Next.js app?
+
+47- Add config matcher
+
+48- interview Question
+
+49- Task for you
+		- What is Middlewere in Next.js?
+		- Where we can use Middlewere?
+		- How to apply Middlewere in spefic route?
+
+
+--------------------------Rendering in Net.js-----------------------------
+
+50- What is rendering ?
+
+51- Rendering Environments
+
+52- Component-level Client and Server Rendering?
+
+53- What is Pre-rendering?
+
+54- Static Generation?
+
+55- Server-side rendering?
+
+-------------------------Client Side vs PreRendering in Next.js--------------------------------
